@@ -54,11 +54,7 @@ print(matrix_a * matrix_b)
 
 [第3集] 矩阵乘法(二) [视频](http://open.163.com/movie/2011/6/F/8/M82ICR1D9_M83C86FF8.html)
 
-![matrix](./images/1.1.3.matrix.multiplication.jpg)
-
-```python
-
-```
+![matrix](./images/1.1.3.matrix.multiplication.png)
 
 [第4集] 矩阵的逆(一)
 
