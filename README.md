@@ -56,9 +56,11 @@ print(matrix_a * matrix_b)
 
 ![matrix](./images/1.1.3.matrix.multiplication.png)
 
-[第4集] 矩阵的逆(一)
+[第4集] 矩阵的逆(一) [视频](http://open.163.com/movie/2011/6/U/1/M82ICR1D9_M83C89FU1.html)
 
-[第5集] 矩阵的逆(二)
+![matrix.](./images/1.1.4.matrix.inverse.png)
+
+[第5集] 矩阵的逆(二) [视频](http://open.163.com/movie/2011/6/1/2/M82ICR1D9_M83C8JE12.html)
 
 [第6集] 矩阵的逆(三)
 
@@ -573,3 +575,26 @@ Recurrent NN
 
 logistic  regression 回归
 Gradient Descent 梯度下降
+
+
+[导数](https://zh.wikipedia.org/wiki/%E5%AF%BC%E6%95%B0#.E5.AF.BC.E6.95.B0.E7.9A.84.E8.AE.B0.E6.B3.95)
+
+先验——根据若干年的统计（经验）或者气候（常识），某地方下雨的概率；
+似然——下雨（果）的时候有乌云（因 or 证据 or 观察的数据）的概率，即已经有了果，对证据发生的可能性描述；
+后验——根据天上有乌云（原因或者证据 or 观察数据），下雨（结果）的概率；
+
+后验 ~ 先验*似然 ： 存在下雨的可能（先验），下雨之前会有乌云（似然）~ 通过现在有乌云推断下雨概率（后验）；
+
+![先验似然后验](./images/先验.jpg)
+
+![先验似然后验2](./images/先验2.jpg)
+
+[贝叶斯推断如何更新后验概率？](https://www.zhihu.com/question/27398304)
+
+这个给出的是程序员的视角:(nice)
+[Gradient Descent 梯度下降法](https://ctmakro.github.io/site/on_learning/gd.html)
+梯度下降法可以帮助我们找到某个函数的极小值或者最小值。
+
+[机器学习中的数学(1)-回归(regression)、梯度下降(gradient descent)](http://www.cnblogs.com/LeftNotEasy/archive/2010/12/05/mathmatic_in_machine_learning_1_regression_and_gradient_descent.html)
+
+[梯度下降（Gradient Descent）小结](https://www.cnblogs.com/pinard/p/5970503.html)
