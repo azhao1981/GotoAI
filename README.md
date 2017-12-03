@@ -24,6 +24,8 @@
 
 ## 常见工具
 
+### [ai云生态](./aioncloud.md)
+
 ## 实战
 
 [机器学习实战](https://github.com/apachecn/MachineLearning)
@@ -39,6 +41,12 @@ https://www.toutiao.com/i6482558545681187341/
 ## 参考
 
 ### 国语
+
+[boltzmann](https://github.com/monsta-hd/boltzmann-machines)
+
+[所见即所得AI框架](https://github.com/MrNothing/AI-Blocks)
+
+<https://github.com/lcatro/Machine-Learning-Note>
 
 <https://github.com/MorvanZhou/tutorials>
 
@@ -112,8 +120,7 @@ https://arxiv.org/abs/1710.09829
 
 部分翻:https://www.toutiao.com/i6481644640318521870/
 
-实现
-https://github.com/naturomics/CapsNet-Tensorflow
+实现 [CapsNet-Tensorflow](https://github.com/naturomics/CapsNet-Tensorflow)
 
 2. 卷积神经网络了解博客。//blog.csdn.net/zouxy09/article/details/8781543
 
@@ -154,4 +161,69 @@ Recurrent NN
 logistic  regression 回归
 Gradient Descent 梯度下降
 
+[爬虫](https://github.com/scrapy/scrapy)
 
+[阿法狗0](https://github.com/rossumai/nochi)
+
+[数据博客](https://github.com/rushter/data-science-blogs)
+
+[pytorch](https://github.com/pytorch/pytorch)
+
+[awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)
+
+[scikit](https://github.com/scikit-learn/scikit-learn)
+
+cifar10
+http://www.voidcn.com/article/p-vdkdnmft-w.html
+
+吐血推荐：超级好用的深度学习云平台Floyd
+https://zhuanlan.zhihu.com/p/27573615
+
+http://campus.swarma.org/
+
+
+https://www.zhihu.com/question/51362855
+Google Container Engine
+https://cloud.google.com/free/
+https://cloud.google.com/ml-engine/
+$300
+https://cloud.tencent.com/community/article/875685
+
+https://cloud.baidu.com/product/bdl.html
+https://cloud.baidu.com/doc/GPU/Pricing.html#.E6.8C.89.E9.9C.80.E8.AE.A1.E8.B4.B9
+
+https://buy.cloud.tencent.com/price/gpu
+
+云深度学习平台架构与实践的必经之路
+http://www.infoq.com/cn/articles/architecture-and-practice-of-cloud-based-learning-platform
+
+易学易用的分布式深度学习平台,中文很全
+http://paddlepaddle.org/
+推荐算法
+http://paddlepaddle.org/docs/develop/book/05.recommender_system/index.cn.html
+
+程序员的深度学习入门指南
+https://amazonaws-china.com/cn/blogs/china/deep-learning-intro/
+
+打造企业级云深度学习平台——小米云深度学习平台的架构设计与实现
+http://geek.csdn.net/news/detail/201311
+
+知识图谱
+http://schema.org/
+http://ai.baidu.com/tech/kg/schema
+
+推荐评估模型
+https://github.com/cnkuangshi/LightCTR
+
+[自创数据集，使用TensorFlow预测股票入门](https://mp.weixin.qq.com/s/X7ISLRMy5cddpmO5mev4MA)
+
+python:
+
+  https://github.com/norvig/pytudes
+  https://github.com/rochacbruno/py2rs
+
+StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation
+https://github.com/yunjey/StarGAN
+
+虚拟图表
+https://github.com/antvis/g2
