@@ -4,8 +4,7 @@
 
 ## 引导
 
-学习路线图
-![路线图](http://p3.pstatp.com/large/4ad70000049b367b2101)
+![学习路线图](http://p3.pstatp.com/large/4ad70000049b367b2101)
 
 ## 数学基础教程
 
@@ -179,41 +178,7 @@ Gradient Descent 梯度下降
 cifar10
 http://www.voidcn.com/article/p-vdkdnmft-w.html
 
-吐血推荐：超级好用的深度学习云平台Floyd
-https://zhuanlan.zhihu.com/p/27573615
 
-http://campus.swarma.org/
-
-
-https://www.zhihu.com/question/51362855
-Google Container Engine
-https://cloud.google.com/free/
-https://cloud.google.com/ml-engine/
-$300
-https://cloud.tencent.com/community/article/875685
-
-https://cloud.baidu.com/product/bdl.html
-https://cloud.baidu.com/doc/GPU/Pricing.html#.E6.8C.89.E9.9C.80.E8.AE.A1.E8.B4.B9
-
-https://buy.cloud.tencent.com/price/gpu
-
-云深度学习平台架构与实践的必经之路
-http://www.infoq.com/cn/articles/architecture-and-practice-of-cloud-based-learning-platform
-
-易学易用的分布式深度学习平台,中文很全
-http://paddlepaddle.org/
-推荐算法
-http://paddlepaddle.org/docs/develop/book/05.recommender_system/index.cn.html
-
-程序员的深度学习入门指南
-https://amazonaws-china.com/cn/blogs/china/deep-learning-intro/
-
-打造企业级云深度学习平台——小米云深度学习平台的架构设计与实现
-http://geek.csdn.net/news/detail/201311
-
-知识图谱
-http://schema.org/
-http://ai.baidu.com/tech/kg/schema
 
 推荐评估模型
 https://github.com/cnkuangshi/LightCTR
