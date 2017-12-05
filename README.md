@@ -24,6 +24,10 @@
 
 ## 常见算法
 
+### 线性回归
+
+http://bit.baidu.com/course/detail/id/137.html
+
 ## 常见工具
 
 ### [ai云生态](./aioncloud.md)

@@ -20,10 +20,17 @@ tencent
 https://cloud.tencent.com/community/article/875685
 https://buy.cloud.tencent.com/price/gpu
 
-baidu
+语音识别
+https://cloud.tencent.com/product/asr#userDefined14
 
+baidu
 https://cloud.baidu.com/product/bdl.html
 https://cloud.baidu.com/doc/GPU/Pricing.html#.E6.8C.89.E9.9C.80.E8.AE.A1.E8.B4.B9
+http://yuyin.baidu.com/ 免费
+
+[基于javascript用olamisdk实现web端语音识别语义理解（speex压缩）](http://blog.csdn.net/ls0609/article/details/73920229)
+[html5网页录音和语音识别](https://segmentfault.com/a/1190000006693051)(https://github.com/veizz/speech_io)
+[HTML5的Speech API相关标准的现状](http://www.cnblogs.com/jz1108/archive/2012/05/21/2511447.html)
 
 云深度学习平台架构与实践的必经之路
 http://www.infoq.com/cn/articles/architecture-and-practice-of-cloud-based-learning-platform
